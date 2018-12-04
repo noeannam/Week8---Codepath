@@ -1,5 +1,3 @@
-# Week8-Codepath
-
 # Project 8 - Pentesting Live Targets
 
 Time spent: **X** hours spent in total
