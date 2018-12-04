@@ -23,9 +23,9 @@ Vulnerability #2: SQL Injection (SQLi) ![](https://i.imgur.com/ZgwfqCj.gif)
 
 ## Green
 
-Vulnerability #1: Username Enumeration
+Vulnerability #1: Username Enumeration ![](https://i.imgur.com/fYn2e1L.gif)
 
-Vulnerability #2: Cross-Site Scripting (XSS)
+Vulnerability #2: Cross-Site Scripting (XSS) ![](https://i.imgur.com/MHZClUP.gif)
 
 
 ## Red
